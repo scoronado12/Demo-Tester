@@ -4,3 +4,5 @@ This is a major change.
 
 
 This is an even bigger change that could break the last one.
+
+Change 3
