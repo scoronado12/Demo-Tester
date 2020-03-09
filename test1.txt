@@ -12,3 +12,5 @@ Change 4
 This is my fifth change
 
 This is now a sixth change
+
+This is my seventh change to the file
